@@ -42,7 +42,6 @@
 🛠 **Tools**: Git, Docker, VS Code, Postman, Hardhat, Truffle  
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PK1812KHARE&layout=compact&theme=radical)  
 
 
 
